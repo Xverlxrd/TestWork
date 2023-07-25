@@ -1,0 +1,41 @@
+.sort__container{
+    display: flex;
+    width: 100%;
+    background-color: #474955;
+    box-shadow: 0px 4px 27px 0px rgba(230, 231, 234, 0.78);
+    height: 54px;
+    align-items: center;
+}
+.sort__id{
+    display: flex;
+    width: 10.21%;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    column-gap: 34px;
+}
+.sort__text{
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 137.687%;
+}
+.sort__img{
+    width: 11.657px;
+}
+.sort__title{
+    display: flex;
+    width: 49.11%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    column-gap: 34px;
+}
+.sort__body{
+    width: 40.11%;
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    column-gap: 34px;
+}

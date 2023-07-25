@@ -1,0 +1,7 @@
+.content__container{
+    min-width: 1232px;
+    display: flex;
+    flex-direction: column;
+    padding: 23px 77px 12px 78px;
+    row-gap: 15px;
+}

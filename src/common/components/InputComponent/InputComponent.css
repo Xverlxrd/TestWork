@@ -1,0 +1,23 @@
+.input__container{
+    width: 631px;
+    height: 52px;
+    background-color: dodgerblue;
+    position: relative;
+}
+.input__search{
+    width: 100%;
+    height: 100%;
+    background: #5A5C66;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 137.687%;
+    padding-left: 26px;
+}
+.input__img{
+    width: 21px;
+    height: 21px;
+    right: 20px;
+    top: 15px;
+    position: absolute;
+}
